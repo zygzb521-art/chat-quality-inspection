@@ -224,7 +224,8 @@ pytest -v
 
 周银钢 · AI 应用工程师 · 深圳
 
-- 个人简历：[adam-resume.vercel.app](https://adam-resume.vercel.app)
-- 联系方式：claude@yowill.local
+- 个人简历：[zygzb521-art.github.io](https://zygzb521-art.github.io)
+- 邮箱：zygzb521@gmail.com
+- GitHub：[github.com/zygzb521-art](https://github.com/zygzb521-art)
 
 本项目为商业交付案例，已对原始客户数据进行脱敏处理。Demo 数据中"张三/李四/王五"为占位符，非真实客户。
