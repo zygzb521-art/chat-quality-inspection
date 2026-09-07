@@ -1,0 +1,70 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.eggs/
+build/
+dist/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual env
+.venv/
+venv/
+env/
+.python-version
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Environment files (.env.example is committed)
+.env
+.env.local
+.env.*.local
+.env.production
+
+# Node
+node_modules/
+dist/
+.vite/
+*.tsbuildinfo
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Build / packaging
+*.whl
+*.tar.gz
+
+# Test artifacts
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Logs
+*.log
+logs/
+
+# Demo artifacts (generated, can be regenerated via docs-demo/record_demo.py)
+docs-demo/video/
+
+# Release checklist (personal ops doc, not for the repo)
+RELEASE.md
